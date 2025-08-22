@@ -41,9 +41,9 @@ Currently, I’m working on projects that combine **full-stack development, auto
 ---
 
 ## 📫 Get in Touch  
-- 🌐 Portfolio: [shivamramraika.vercel.app](https://shivamramraika.vercel.app)  
-- 📧 Email: [shivamramraika.dev@gmail.com](mailto:shivamramraika.dev@gmail.com)  
-- 💼 LinkedIn: [Shivam Ramraika](https://www.linkedin.com/in/shivam-ramraika-102468333/)  
+- 🌐 [Portfolio](https://shivamramraika.vercel.app)  
+- 📧 [Email](mailto:shivamramraika.dev@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-ramraika-102468333/)  
 
 ---
 
