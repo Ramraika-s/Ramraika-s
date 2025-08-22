@@ -19,7 +19,7 @@ Currently, I’m working on projects that combine **full-stack development, auto
 ## 📖 Current Learning  
 - Building secure and scalable web apps with **Next.js, Tailwind, Firebase, Supabase**.  
 - Experimenting with **AI/ML workflows** (Python, Scikit-learn, TensorFlow).  
-- Working on collaborative projects in student communities (FED KIIT, USC KIIT, IoT Lab).  
+- Working on collaborative projects in student communities ( USC KIIT, IoT Lab).  
 
 ---
 
