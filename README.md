@@ -1,52 +1,46 @@
-# 💻 Shivam’s GitHub Profile  
+<!-- Dynamic Typing Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivam+Ramraika+👋;Systems+%26+Web+Engineer;Indie+Game+Developer" alt="Typing SVG" />
+</div>
 
-## 🚀 About Me  
-Hi there 👋 I’m Shivam, a 2nd-year Computer Science student at KIIT (2024–2028). I love learning by building, exploring modern web technologies, and solving real problems through code.  
+<br/>
 
-Currently, I’m working on projects that combine **full-stack development, automation, and AI/ML** — often with a lot of help and inspiration from my seniors and peers.  
+<div align="center">
+  <p><strong>B.Tech CSE Student @ KIIT University (5th Semester)</strong></p>
+  <p>Exploring the intersections of systems development, web engineering, and interactive 3D environments.</p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-shivamramraika.com-000000?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://shivamramraika.com)
+</div>
 
-## 🔭 Current Projects  
-- **Academis** 🎓 – Academic progress tracker with subject planning, daily tracking, revision cycles, and question paper management.  
-- **Elevate** 🏋️ – A fitness companion dashboard with progress visualizations.  
-- **Literary Lodge** 📚 – A reader-first hub for managing books and reading goals.  
-- **Pixel Résumé** 📝 – A privacy-first, ATS-optimized résumé builder.  
+<br/>
 
-## 🎯 Goals  
-- Deepen expertise in **Next.js, TypeScript, and AI model integration**.  
-- Explore scalable architectures and automation workflows.  
-- Grow holistically: stronger physically 💪, sharper mentally 🧠, and more consistent in execution.  
+### 🌌 Tech Stack & Tools
 
-## 📖 Current Learning  
-- Building secure and scalable web apps with **Next.js, Tailwind, Firebase, Supabase**.  
-- Experimenting with **AI/ML workflows** (Python, Scikit-learn, TensorFlow).  
-- Working on collaborative projects in student communities ( USC KIIT, IoT Lab).  
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender_5-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeoVim-019733?style=for-the-badge&logo=neovim&logoColor=white" />
+</div>
 
----
+<br/>
 
-## 🛠️ Skills and Tools  
+### 📊 Dynamic Metrics
 
-**Languages:** Python, TypeScript/JavaScript, SQL, HTML/CSS  
-**Frameworks & Libraries:** Next.js, React, Redux Toolkit, Flask, Express, Tkinter, Pygame  
-**Databases:** Firebase Firestore, PostgreSQL, MySQL  
-**Tools & Platforms:** Git/GitHub, Vercel, Heroku, UiPath, Recharts, Hugging Face APIs  
-**Concepts:** Machine Learning (Scikit-learn, Pandas), Automation (RPA), Scalable App Design  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramraika-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramraika-s&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
 
----
+<br/>
 
-## 🌱 Fun Facts  
-- 20 years old, endlessly curious, and always experimenting.  
-- Big on fitness, aiming to build strength and discipline alongside code.  
-- I enjoy blending creativity with technology — whether in hackathons, open-source, or side projects.  
+### 🧊 3D Contribution Graph
 
----
-
-## 📫 Get in Touch  
-- 🌐 [Portfolio](https://shivamramraika.vercel.app)  
-- 📧 [Email](mailto:shivamramraika.dev@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivam-ramraika-102468333/)  
-
----
-
-> “Work hard in silence, let success make the noise.”  
-
-Feel free to explore my repositories, star what you like ⭐, and reach out if you’d like to collaborate!  
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Commits Graph" />
+</div>
