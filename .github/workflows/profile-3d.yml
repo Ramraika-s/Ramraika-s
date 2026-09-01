@@ -14,9 +14,6 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: main
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -27,8 +24,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B main
-          git pull origin main --rebase || true
+          
+          # 1. Stage and commit the generated files locally first
           git add -A .
-          git commit -m "generated 3d contrib graph" || exit 0
+          git commit -m "Generated 3D contrib graph" || exit 0
+          
+          # 2. Pull any changes you made to the repo (like README edits) and rebase
+          git pull origin main --rebase
+          
+          # 3. Push everything back safely
           git push origin main
