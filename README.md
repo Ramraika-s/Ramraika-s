@@ -1,6 +1,6 @@
 <!-- Dynamic Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivam+Ramraika;Systems+%26+Web+Engineer;Indie+Game+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Shivam+Ramraika;Systems+%26+Web+Engineer;" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -53,8 +53,9 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramraika-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramraika-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramraika-s&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub stats" width="100%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramraika-s&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" width="100%" />
 </div>
 
 <br/>
