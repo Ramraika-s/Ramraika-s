@@ -15,7 +15,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Ensures full history is fetched for clean syncing
+          fetch-depth: 0
+          ref: main
       
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -26,8 +27,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git fetch origin main
-          git rebase origin/main || true
+          git checkout -B main
+          git pull origin main --rebase || true
           git add -A .
           git commit -m "generated 3d contrib graph" || exit 0
           git push origin main
